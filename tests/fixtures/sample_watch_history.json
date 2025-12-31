@@ -1,0 +1,72 @@
+[
+  {
+    "header": "YouTube",
+    "title": "Watched Lo-fi beats to study to",
+    "titleUrl": "https://www.youtube.com/watch?v=jfKfPfyJRdk",
+    "subtitles": [
+      {
+        "name": "Lofi Girl",
+        "url": "https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow"
+      }
+    ],
+    "time": "2024-12-15T02:30:00.000Z",
+    "products": ["YouTube"],
+    "activityControls": ["YouTube watch history"]
+  },
+  {
+    "header": "YouTube",
+    "title": "Watched Jazz Piano - Relaxing Cafe Music",
+    "titleUrl": "https://www.youtube.com/watch?v=fEvM-OUbaKs",
+    "subtitles": [
+      {
+        "name": "Cafe Music BGM channel",
+        "url": "https://www.youtube.com/channel/UCJhjE7wbdYAae1G25m0tHAA"
+      }
+    ],
+    "time": "2024-12-14T23:15:00.000Z",
+    "products": ["YouTube"],
+    "activityControls": ["YouTube watch history"]
+  },
+  {
+    "header": "YouTube",
+    "title": "Watched 재즈 피아노 모음 - 카페에서 듣기 좋은 음악",
+    "titleUrl": "https://www.youtube.com/watch?v=abc123",
+    "subtitles": [
+      {
+        "name": "힐링뮤직",
+        "url": "https://www.youtube.com/channel/UCtest123"
+      }
+    ],
+    "time": "2024-12-14T01:00:00.000Z",
+    "products": ["YouTube"],
+    "activityControls": ["YouTube watch history"]
+  },
+  {
+    "header": "YouTube",
+    "title": "Watched 케이팝 인기곡 2024 MV 모음",
+    "titleUrl": "https://www.youtube.com/watch?v=kpop123",
+    "subtitles": [
+      {
+        "name": "K-POP Channel",
+        "url": "https://www.youtube.com/channel/UCkpop"
+      }
+    ],
+    "time": "2024-12-13T20:00:00.000Z",
+    "products": ["YouTube"],
+    "activityControls": ["YouTube watch history"]
+  },
+  {
+    "header": "YouTube",
+    "title": "Watched Indie Music Playlist 2024",
+    "titleUrl": "https://www.youtube.com/watch?v=indie456",
+    "subtitles": [
+      {
+        "name": "Indie Vibes",
+        "url": "https://www.youtube.com/channel/UCindie"
+      }
+    ],
+    "time": "2024-12-12T03:30:00.000Z",
+    "products": ["YouTube"],
+    "activityControls": ["YouTube watch history"]
+  }
+]
